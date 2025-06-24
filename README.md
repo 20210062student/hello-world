@@ -16,7 +16,7 @@
 中文注释：所有代码都有详细的中文注释说明
 
 目录结构
-text
+```bash
 ├── 01_基础语法/
 │   ├── 变量和数据类型/
 │   ├── 运算符/
@@ -62,11 +62,10 @@ text
 ├── resources/              # 学习资源
 ├── solutions/              # 练习题答案
 └── README.md              # 本文件
-环境准备
-系统要求
-操作系统：Windows、macOS 或 Linux
 
-Python版本：3.8 或更高版本
+```
+
+Python版本：3.8 或anaconda
 
 安装Python
 Windows用户：
@@ -211,25 +210,5 @@ Web开发：学习Django或Flask框架
 
 游戏开发：学习Pygame进行游戏开发
 
-贡献指南
-我们欢迎所有形式的贡献：
-
-报告问题：发现错误或有改进建议请提交Issue
-
-完善内容：可以提交新的练习题或改进现有内容
-
-分享经验：在Discussions中分享学习心得
-
-翻译文档：帮助翻译文档到其他语言
-
-许可证
-本项目采用MIT许可证，详情请查看LICENSE文件。
-
-联系我们
-GitHub Issues：技术问题和bug报告
-
-邮箱：your-email@example.com
-
-QQ群：123456789（Python学习交流群）
 
 开始你的Python编程之旅吧！记住，编程是一门实践的艺术，多写代码，多思考，你一定能成为优秀的Python开发者！ 🐍✨
